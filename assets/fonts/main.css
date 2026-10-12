@@ -1,1 +1,159 @@
+@font-face {
+	font-family: 'VessertID-Inter';
+	src: url('../assets/fonts/VessertID-Inter-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
 
+@font-face {
+	font-family: 'VessertID-Inter';
+	src: url('../assets/fonts/VessertID-Inter-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Poppins';
+	src: url('../assets/fonts/VessertID-Poppins-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Poppins';
+	src: url('../assets/fonts/VessertID-Poppins-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Montserrat';
+	src: url('../assets/fonts/VessertID-Montserrat-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Montserrat';
+	src: url('../assets/fonts/VessertID-Montserrat-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-OpenSans';
+	src: url('../assets/fonts/VessertID-OpenSans-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Lato';
+	src: url('../assets/fonts/VessertID-Lato-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Roboto';
+	src: url('../assets/fonts/VessertID-Roboto-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Anton';
+	src: url('../assets/fonts/VessertID-Anton-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-BebasNeue';
+	src: url('../assets/fonts/VessertID-BebasNeue-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-ClashDisplay';
+	src: url('../assets/fonts/VessertID-ClashDisplay-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Oswald';
+	src: url('../assets/fonts/VessertID-Oswald-Bold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-PlayfairDisplay';
+	src: url('../assets/fonts/VessertID-PlayfairDisplay-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Lora';
+	src: url('../assets/fonts/VessertID-Lora-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Merriweather';
+	src: url('../assets/fonts/VessertID-Merriweather-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Caveat';
+	src: url('../assets/fonts/VessertID-Caveat-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-DancingScript';
+	src: url('../assets/fonts/VessertID-DancingScript-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Pacifico';
+	src: url('../assets/fonts/VessertID-Pacifico-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'VessertID-Lobster';
+	src: url('../assets/fonts/VessertID-Lobster-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
